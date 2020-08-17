@@ -20,6 +20,6 @@
 
 
 ### ☕ Get in touch
-- LinkedIn: <a href = "https://www.linkedin.com/in/anabella-da-rocha-940b9267/">anabella-da-rocha</a>
-- Twitter: <a href = "https://twitter.com/anidarocha">ani-da-rocha</a>
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anabella-da-rocha-940b9267/)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/anidarocha)
 - Website: coming soon
