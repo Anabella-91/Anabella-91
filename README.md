@@ -21,5 +21,5 @@
 
 ### ☕ Get in touch
 - LinkedIn: <a href = "https://www.linkedin.com/in/anabella-da-rocha-940b9267/">anabella-da-rocha</a>
-- Twitter: <a href = "https://twitter.com/anidarocha">ani</a>
+- Twitter: <a href = "https://twitter.com/anidarocha">ani-da-rocha</a>
 - Website: coming soon
