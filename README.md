@@ -2,7 +2,7 @@
 ### FullStack Developer 
 
 ### 🚀 About
-😄 I live in Buenos Aires, Argentina
+😄 I live in Buenos Aires, Argentina<br>
 🤩 I love dance
 
 👀 I’m currently focusing on web development
