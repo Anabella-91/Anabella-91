@@ -5,7 +5,6 @@
 😄 I live in Buenos Aires, Argentina<br>
 🤩 I love dance
 
-👀 I’m currently focusing on web development
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
