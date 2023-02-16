@@ -1,10 +1,7 @@
 ## Hola! Soy Anabella 🌏
 ### FullStack Developer 
 
-### 🚀 About
 😄 I live in Buenos Aires, Argentina<br>
-🤩 I love dance
-
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
